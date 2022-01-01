@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-130,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Y Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-47
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Y Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Y Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Y Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-73
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Y Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-84,
+				-47
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Y Left",
+			"indices": [
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				65,
+				-15
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Y Up",
+			"indices": [
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-113,
+				-73
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Y Right",
+			"indices": [
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				38,
+				-85
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Y Down",
+			"indices": [
+				15,
+				16
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-73
+			],
+			"anim": "laugh1",
+			"fps": 24,
+			"name": "Y Laugh Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-40
+			],
+			"anim": "laugh2",
+			"fps": 24,
+			"name": "Y Laugh Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yuri_TT_Sheet",
+	"position": [
+		-100,
+		-140
+	],
+	"healthicon": "yuri",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		125,
+		175
+	],
+	"camera_position": [
+		60,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
