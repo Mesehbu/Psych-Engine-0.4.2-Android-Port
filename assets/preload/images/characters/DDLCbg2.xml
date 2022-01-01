@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DDLCbg2.png">
+<SubTexture name="DDLCbg bg0000" x="0" y="0" width="1733" height="959" frameX="0" frameY="0" frameWidth="1733" frameHeight="959" />
+<SubTexture name="DDLCbg bg0001" x="0" y="0" width="1733" height="959" frameX="0" frameY="0" frameWidth="1733" frameHeight="959" />
+<SubTexture name="DDLCbg bg0002" x="1733" y="0" width="1733" height="959" frameX="0" frameY="0" frameWidth="1733" frameHeight="959" />
+<SubTexture name="DDLCbg bg0003" x="3466" y="0" width="1733" height="959" frameX="0" frameY="0" frameWidth="1733" frameHeight="959" />
+<SubTexture name="DDLCbg bg0004" x="5199" y="0" width="1733" height="959" frameX="0" frameY="0" frameWidth="1733" frameHeight="959" />
+<SubTexture name="DDLCbg bg0005" x="0" y="959" width="1733" height="959" frameX="0" frameY="0" frameWidth="1733" frameHeight="959" />
+<SubTexture name="DDLCbg bg0006" x="1733" y="959" width="1733" height="959" frameX="0" frameY="0" frameWidth="1733" frameHeight="959" />
+<SubTexture name="DDLCbg bg0007" x="3466" y="959" width="1733" height="959" frameX="0" frameY="0" frameWidth="1733" frameHeight="959" />
+</TextureAtlas>
